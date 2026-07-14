@@ -1,0 +1,4 @@
+* 8566fc7 (HEAD -> feature/docker-local, develop) test: documentar prueba local de aplicacion FastAPI
+* dc6f125 feat: agregar aplicacion FastAPI y configuracion Docker
+* c6440d7 chore: crear estructura inicial del proyecto final DevOps
+* 49f427e (main) chore: inicializar repositorio base
