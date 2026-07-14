@@ -1,0 +1,2 @@
+CONTAINER ID   IMAGE                     COMMAND                  CREATED              STATUS                    PORTS                                         NAMES
+9a082b070a5e   devops-final-project:v1   "sh -c 'uvicorn main…"   About a minute ago   Up 59 seconds (healthy)   0.0.0.0:8001->8000/tcp, [::]:8001->8000/tcp   devops-final-project-grupo1
