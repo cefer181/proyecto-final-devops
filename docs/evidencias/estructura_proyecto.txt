@@ -1,0 +1,21 @@
+.
+├── app
+│   ├── main.py
+│   ├── __pycache__
+│   │   └── main.cpython-312.pyc
+│   └── templates
+│       └── index.html
+├── Dockerfile
+├── .dockerignore
+├── docs
+│   ├── capturas
+│   │   ├── salida_uvicorn_local.txt
+│   │   └── uvicorn.pid
+│   └── evidencias
+│       └── estructura_proyecto.txt
+├── .gitignore
+├── INFORME.md
+├── README.md
+└── requirements.txt
+
+7 directories, 12 files
