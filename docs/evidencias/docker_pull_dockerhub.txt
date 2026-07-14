@@ -1,0 +1,4 @@
+v1: Pulling from cefer181/devops-final-project
+Digest: sha256:a4b19055343616a5997e73267ca0795f78a1bef67e26dacce7318b49f83cbe98
+Status: Image is up to date for cefer181/devops-final-project:v1
+docker.io/cefer181/devops-final-project:v1

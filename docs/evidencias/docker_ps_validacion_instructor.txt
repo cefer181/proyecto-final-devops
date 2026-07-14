@@ -1,0 +1,2 @@
+CONTAINER ID   IMAGE                              COMMAND                  CREATED          STATUS                    PORTS                                         NAMES
+e03f1fbe8615   cefer181/devops-final-project:v1   "sh -c 'uvicorn main…"   23 seconds ago   Up 22 seconds (healthy)   0.0.0.0:9000->8000/tcp, [::]:9000->8000/tcp   validacion-instructor

@@ -1,0 +1,14 @@
+{
+    "application": "DevOps Final Project API",
+    "version": "1.0.0",
+    "environment": "production",
+    "group": {
+        "name": "Grupo 1",
+        "members": "C\u00e9sar J\u00e1come, Marcela Balde\u00f3n"
+    },
+    "system": {
+        "hostname": "e03f1fbe8615",
+        "platform": "Linux",
+        "python_version": "3.12.13"
+    }
+}

@@ -1,0 +1,6 @@
+{
+    "status": "healthy",
+    "service": "devops-final-project",
+    "group": "Grupo 1",
+    "timestamp": "2026-07-14T05:15:48.578752"
+}
