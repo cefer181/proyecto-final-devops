@@ -1,0 +1,6 @@
+{
+    "service": "devops-final-project",
+    "uptime_seconds": 98.43,
+    "status": "running",
+    "group": "Grupo 1"
+}
